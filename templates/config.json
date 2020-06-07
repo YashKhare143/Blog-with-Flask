@@ -1,0 +1,19 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root:@localhost/upscblog",
+        "prod_uri": "mysql://root:@localhost/upscblog",
+        "blog_name": "Let's Crack UPSC...",
+        "blog_subheading": "A Blog liked by Learners",
+        "fb_url": "https://www.facebook.com/yash.khare.982",
+        "git_url": "https://github.com/YashKhare143",
+        "insta_url": "https://www.instagram.com/yashkhare_211/",
+        "gmail-user": "",
+        "gmail-pass": "",
+        "about": "HI My name is Yash and i am a Programmer...",
+        "no_of_posts": 2,
+        "admin_user": "Yash211",
+        "admin_pass": "yashkhare74",
+        "upload_location": "Y:\\Proagraming\\Python\\Flask\\static"
+    }
+}
